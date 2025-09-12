@@ -2,14 +2,14 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #fffbe6; /* fundo amarelo claro */
+  background: #483D8B; /* fundo amarelo claro */
   color: #333;
   text-align: center;
 }
 
 /* Cabeçalho */
 header {
-  background: #f4d03f;
+  background: #483D8B;
   padding: 20px;
   color: #333;
 }
@@ -26,7 +26,7 @@ main {
 
 /* Botão */
 button {
-  background: #f39c12;
+  background: #483D8B;
   color: white;
   border: none;
   padding: 15px 25px;
@@ -37,7 +37,7 @@ button {
 }
 
 button:hover {
-  background: #e67e22;
+  background: #483D8B;
 }
 
 /* Mensagem */
@@ -50,7 +50,7 @@ button:hover {
 
 /* Rodapé */
 footer {
-  background: #f4d03f;
+  background: #483D8B;
   padding: 10px;
   margin-top: 30px;
 }
