@@ -9,7 +9,7 @@ body {
 
 /* Cabeçalho */
 header {
-  background: #000000;
+  background: #FFFF00;
   padding: 20px;
   color: #333;
 }
@@ -37,7 +37,7 @@ button {
 }
 
 button:hover {
-  background: #000000;
+  background: #FFFF00;
 }
 
 /* Mensagem */
